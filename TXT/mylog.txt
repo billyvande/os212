@@ -6,3 +6,4 @@ ZCZC W0 20 L03 GitHub related
 ZCZC W0 25 L04 GitHub Pages related
 ZCZC W0 120 L02 ZOOM meetings related
 ZCZC W0 30 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W1 120 L02 ZOOM meetings related
