@@ -1,8 +1,8 @@
 ---
-permalink: /links/
+permalink: /LINKS/
 ---
 
-[MyRepo](https://github.com/billyvande/os212) | [Home](https://billyvande.github.io/os212/) | [Log](https://billyvande.github.io/os212/TXT/mylog.txt) |  [Links](https://billyvande.github.io/os212/links/)
+[MyRepo](https://github.com/billyvande/os212) | [Home](https://billyvande.github.io/os212/) | [Log](https://billyvande.github.io/os212/TXT/mylog.txt) |  [Links](https://billyvande.github.io/os212/LINKS/)
 
 # LINKS
 
