@@ -9,3 +9,16 @@ ZCZC W0 30 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W1 120 L02 ZOOM meetings related
 ZCZC W1 40 L31 VirtualBox: install GNU/Linux, etc.
 ZCZC W1 360 L11 Assignment #01
+ZCZC W2 60 L11 Assignment #01
+ZCZC W2 25 L12 Assignment #02
+ZCZC W2 180 L13 Assignment #03
+ZCZC W2 15 L14 Assignment #04
+ZCZC W2 15 L15 Assignment #05
+ZCZC W2 60 L16 Assignment #06
+ZCZC W2 30 L17 Assignment #07
+ZCZC W2 30 L18 Assignment #08
+ZCZC W2 40 L19 Assignment #09
+ZCZC W2 45 L20 Assignment #10
+ZCZC W2 20 L09 Assignment #11
+ZCZC W2 25 L09 Assignment #12
+ZCZC W2 35 L09 Assignment #13
