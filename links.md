@@ -14,3 +14,14 @@ permalink: /LINKS/
 
 3. [Stack Overflow](https://stackoverflow.com/)<br>
    Just an interesting website. We know how to use it :D .
+   
+   Another links
+
+1. [How to choose a Password](https://www.youtube.com/watch?v=3NjQ9b3pgIg)<br>
+   There is some explanation how to choose your password. Choose your password wisely :D.
+
+2. [WannaCry virus](https://en.wikipedia.org/wiki/WannaCry_ransomware_attack)<br>
+   Wise and classic wikipedia. A kind of virus that went boom a few years ago. A good reference. 
+
+3. [What if.... Programming was an Anime](https://www.youtube.com/watch?v=pKO9UjSeLew/)<br>
+   Just an interesting video from youtube. Well just an appreciation post.
