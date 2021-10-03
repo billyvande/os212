@@ -8,14 +8,15 @@ permalink: /LINKS/
 
 ## NEW LINKS THIS WEEK *HOORAY*
 
-1. [Absolute PATH? Relative PATH?](https://www.computerhope.com/issues/ch001708.htm/)<br>
-   Well, you need to find out. Just clicked the link :D  <u>(I SWEAR IF I READ THIS, I WILL GIVE THIS GUY OS212 CREDIT)</u>
+1. [Storage VS Memory](https://www.pcmag.com/encyclopedia/term/storage-vs-memory/)<br>
+   When we talk about memory and storage, there may be confusion for those who are unfamiliar with the terms. Find out by click the link above :D
 
-2. [Stack Implementation in Operating System uses by Processor](https://www.geeksforgeeks.org/stack-implementation-in-operating-system-uses-by-processor/?ref=rp)<br>
-   How Stack work in operating system. Just how? need a clue? don't have any idea what is stack? just click the link ~~below~~ above 
+2. [Little Endian and Big Endian](https://www.section.io/engineering-education/what-is-little-endian-and-big-endian/)<br>
+   Computers store data in memory in binary. One thing that is often overlooked is the formatting at the byte level of this data. This is called endianness and it refers to the ordering of the bytes. 
 
-3. [Every programming tutorial](https://www.youtube.com/watch?v=MAlSjtxy5ak/)<br>
-   Just a small tribute for this video. ~~not~~ really helping for ~~this class~~ coping my stess :D .
+3. [How computer memory works](https://www.youtube.com/watch?v=p3q5zWCw8J4/)<br>
+   Check it out if u think that how memory works is important.
+
 
    Another links
 
@@ -37,3 +38,11 @@ permalink: /LINKS/
 6. [What if.... Programming was an Anime](https://www.youtube.com/watch?v=pKO9UjSeLew/)<br>
    Just an interesting video from youtube. Well just an appreciation post.
    
+7. [Absolute PATH? Relative PATH?](https://www.computerhope.com/issues/ch001708.htm/)<br>
+   Well, you need to find out. Just clicked the link :D  <u></u>
+
+8. [Stack Implementation in Operating System uses by Processor](https://www.geeksforgeeks.org/stack-implementation-in-operating-system-uses-by-processor/?ref=rp)<br>
+   How Stack work in operating system. Just how? need a clue? don't have any idea what is stack? just click the link ~~below~~ above 
+
+9. [Every programming tutorial](https://www.youtube.com/watch?v=MAlSjtxy5ak/)<br>
+   Just a small tribute for this video. ~~not~~ really helping for ~~this class~~ coping my stess :D .
