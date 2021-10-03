@@ -32,3 +32,13 @@ ZCZC W3 60 L16 Assignment #06
 ZCZC W3 45 L17 Assignment #07
 ZCZC W3 30 L18 Assignment #08
 ZCZC W3 40 L19 Assignment #09
+ZCZC W4 10 L01 SCELE/Discord related
+ZCZC W4 45 L11 Assignment #01
+ZCZC W4 25 L12 Assignment #02
+ZCZC W4 20 L13 Assignment #03
+ZCZC W4 20 L14 Assignment #04
+ZCZC W4 100 L15 Assignment #05 
+ZCZC W4 65 L16 Assignment #06
+ZCZC W4 40 L17 Assignment #07
+ZCZC W4 30 L18 Assignment #08
+ZCZC W4 20 L19 Assignment #09
