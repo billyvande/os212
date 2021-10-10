@@ -42,3 +42,15 @@ ZCZC W4 65 L16 Assignment #06
 ZCZC W4 40 L17 Assignment #07
 ZCZC W4 30 L18 Assignment #08
 ZCZC W4 20 L19 Assignment #09
+ZCZC W5 10 L01 SCELE/Discord related
+ZCZC W5 120 L02 ZOOM meetings related
+ZCZC 25 75 L31 VirtualBox: Weekly .
+ZCZC W5 30 L11 Assignment #01
+ZCZC W5 15 L12 Assignment #02
+ZCZC W5 25 L13 Assignment #03
+ZCZC W5 120 L14 Assignment #04
+ZCZC W5 90 L15 Assignment #05
+ZCZC W5 30 L16 Assignment #06
+ZCZC W5 40 L17 Assignment #07
+ZCZC W5 20 L18 Assignment #08
+ZCZC W5 20 L19 Assignment #09
