@@ -8,4 +8,4 @@ permalink: /TIPS/
 
 A simple tips
 
-1. [Know linux commands] (https://www.guru99.com/must-know-linux-commands.html/)
+1. [Know linux commands](https://www.guru99.com/must-know-linux-commands.html/)<br>
