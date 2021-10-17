@@ -8,14 +8,14 @@ permalink: /LINKS/
 
 ## NEW LINKS THIS WEEK *HOORAY*
 
-1. [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
-   Virtual memory is a memory. yeah it's a memory. just click my link above and find out what is virtual memory made of.
+1. [Concurrency](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+   Concurrency in operating system. It has "to the point" explanation.
 
-2. [Actual Memory vs Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/)<br>
-   Actual memory and virtual memory seems like a same thing with different platform. But, there is an actual difference between these two memories.
+2. [Concurrent VS Parallel](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)<br>
+   Website tell us about differences about concurrency and parallel. It has comparation table to help you understand.
 
-3. [Memories](https://www.youtube.com/watch?v=SlPhMPnQ58k/)<br>
-   Just a song from Maroon 5. I decided to watch it when i was finding some unique things about computer memory. Just a small tribute for them.
+3. [Concurrent vs Parallel](https://www.youtube.com/watch?v=FChZP09Ba4E/)<br>
+   It's a video. As you can see, it's about concurrent and parallel. but in a video.
 
    Another links
 
@@ -37,7 +37,7 @@ permalink: /LINKS/
 
 6. [What if.... Programming was an Anime](https://www.youtube.com/watch?v=pKO9UjSeLew/)<br>
    Just an interesting video from youtube. Well just an appreciation post.
-   
+ 
 7. [Absolute PATH? Relative PATH?](https://www.computerhope.com/issues/ch001708.htm/)<br>
    Well, you need to find out. Just clicked the link :D  <u></u>
 
@@ -55,3 +55,12 @@ permalink: /LINKS/
 
 12. [How computer memory works](https://www.youtube.com/watch?v=p3q5zWCw8J4/)<br>
    Check it out if u think that how memory works is important.
+
+13. [Virtual Memory in OS](https://www.geeksforgeeks.org/virtual-memory-in-operating-system/)<br>
+   Virtual memory is a memory. yeah it's a memory. just click my link above and find out what is virtual memory made of.
+
+14. [Actual Memory vs Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory/)<br>
+   Actual memory and virtual memory seems like a same thing with different platform. But, there is an actual difference between these two memories.
+
+15. [Memories](https://www.youtube.com/watch?v=SlPhMPnQ58k/)<br>
+   Just a song from Maroon 5. I decided to watch it when i was finding some unique things about computer memory. Just a small tribute for them.
