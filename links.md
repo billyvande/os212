@@ -8,17 +8,16 @@ permalink: /LINKS/
 
 ## NEW LINKS THIS WEEK *HOORAY*
 
-1. [Concurrency](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
-   Concurrency in operating system. It has "to the point" explanation.
+1. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+   Explain fork() with gfg style.
 
-2. [Concurrent VS Parallel](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)<br>
-   Website tell us about differences about concurrency and parallel. It has comparation table to help you understand.
+2. [Semaphores in Synchronization](https://www.geeksforgeeks.org/semaphores-in-process-synchronization/)<br>
+   Explain about semaphores in synchronization. Code written in c++.
 
-3. [Concurrent vs Parallel](https://www.youtube.com/watch?v=FChZP09Ba4E/)<br>
-   It's a video. As you can see, it's about concurrent and parallel. but in a video.
+3. [Deadlock VS Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
+   Difference between deadlock and starvation. Easy to understand.
 
    Another links
-
 
 1. [Operating System by VauLSMorg](https://os.vlsm.org/)<br>
    Need a help? Come here ASAP <u>(happened a lot)</u>.
@@ -64,3 +63,12 @@ permalink: /LINKS/
 
 15. [Memories](https://www.youtube.com/watch?v=SlPhMPnQ58k/)<br>
    Just a song from Maroon 5. I decided to watch it when i was finding some unique things about computer memory. Just a small tribute for them.
+
+16. [Concurrency](https://www.geeksforgeeks.org/concurrency-in-operating-system/)<br>
+   Concurrency in operating system. It has "to the point" explanation.
+
+17. [Concurrent VS Parallel](https://www.geeksforgeeks.org/difference-between-concurrency-and-parallelism/)<br>
+   Website tell us about differences about concurrency and parallel. It has comparation table to help you understand.
+
+18. [Concurrent vs Parallel](https://www.youtube.com/watch?v=FChZP09Ba4E/)<br>
+   It's a video. As you can see, it's about concurrent and parallel. but in a video.
